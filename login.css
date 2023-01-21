@@ -411,6 +411,7 @@ background-color:rgba(0.0, 0.0, 0.0, 0.0);
 
 
 ._I1_45-11_4152-11_3829-9_254 {
+cursor:pointer;
 flex-direction:row;
 display:flex;
 gap:10.0px;
@@ -422,6 +423,28 @@ padding-bottom:10.0px;
 height:fit-content;
 width:fit-content;
 background-color:rgba(0.0, 0.0, 0.0, 0.0);
+}
+
+
+
+._I1_45-11_4152-11_3829-9_254-103_612 {
+height:fit-content;
+width:fit-content;
+padding-left:unset;
+padding-right:unset;
+resize:none;
+background-color:rgba(0, 0, 0, 0);
+outline:none;
+border-width:0px;
+letter-spacing:0.0px;
+line-height:18.3984375px;
+font-family:Arial;
+font-weight:400;
+font-size:16.0px;
+color:rgba(0.0, 0.0, 0.0, 1.0);
+display:flex;
+align-items:start;
+justify-content:LEFT;
 }
 
 
@@ -465,6 +488,17 @@ color:rgba(0.0, 0.0, 0.0, 1.0);
 display:flex;
 align-items:start;
 justify-content:LEFT;
+}
+
+
+
+._I1_45-11_4152-11_3829-9_254-105_673 {
+flex-direction:row;
+display:flex;
+padding-top:4.0px;
+height:fit-content;
+width:fit-content;
+background-color:rgba(0.0, 0.0, 0.0, 0.0);
 }
 
 
