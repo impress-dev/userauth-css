@@ -541,7 +541,6 @@ color:rgba(130.0000074505806, 177.0000046491623, 255.0, 1.0);
 display:flex;
 align-items:start;
 justify-content:LEFT;
-cursor:pointer;
 }
 
 
@@ -583,7 +582,6 @@ background-color:rgba(0.0, 0.0, 0.0, 0.0);
 ._I1_45-11_4152-11_3829-106_2233 {
 flex-direction:column;
 display:flex;
-gap:20.0px;
 height:fit-content;
 width:fit-content;
 background-color:rgba(0.0, 0.0, 0.0, 0.0);
@@ -594,8 +592,8 @@ background-color:rgba(0.0, 0.0, 0.0, 0.0);
 ._I1_45-11_4152-11_3829-29_658 {
 flex-direction:row;
 display:flex;
-min-height:23.0px;
-height:23.0px;
+padding-bottom:20.0px;
+height:fit-content;
 min-width:440.0px;
 width:440.0px;
 background-color:rgba(0.0, 0.0, 0.0, 0.0);

@@ -443,7 +443,6 @@ background-color:rgba(0.0, 0.0, 0.0, 0.0);
 ._I32_85-11_4620-11_3829-106_2233 {
 flex-direction:column;
 display:flex;
-gap:20.0px;
 height:fit-content;
 width:fit-content;
 background-color:rgba(0.0, 0.0, 0.0, 0.0);
@@ -454,8 +453,8 @@ background-color:rgba(0.0, 0.0, 0.0, 0.0);
 ._I32_85-11_4620-11_3829-29_658 {
 flex-direction:row;
 display:flex;
-min-height:23.0px;
-height:23.0px;
+padding-bottom:20.0px;
+height:fit-content;
 min-width:440.0px;
 width:440.0px;
 background-color:rgba(0.0, 0.0, 0.0, 0.0);
