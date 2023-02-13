@@ -541,7 +541,11 @@ background-color:rgba(0.0, 0.0, 0.0, 0.0);
 ._I41_778-11_4369-11_3883-106_2233 {
 flex-direction:column;
 display:flex;
-height:fit-content;
+justify-content:flex-end;
+align-items:center;
+padding-top:10.0px;
+min-height:74.0px;
+height:74.0px;
 width:fit-content;
 background-color:rgba(0.0, 0.0, 0.0, 0.0);
 }

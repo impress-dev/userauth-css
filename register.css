@@ -443,7 +443,11 @@ background-color:rgba(0.0, 0.0, 0.0, 0.0);
 ._I32_85-11_4620-11_3829-106_2233 {
 flex-direction:column;
 display:flex;
-height:fit-content;
+justify-content:flex-end;
+align-items:center;
+padding-top:10.0px;
+min-height:74.0px;
+height:74.0px;
 width:fit-content;
 background-color:rgba(0.0, 0.0, 0.0, 0.0);
 }
