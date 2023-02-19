@@ -214,6 +214,24 @@ justify-content:LEFT;
 
 
 
+._I32_85-11_4620-11_3829-11_2114 {
+min-height:46.0px;
+height:fit-content;
+width:-webkit-fill-available;
+width:-moz-available;
+line-height:23.4375px;
+letter-spacing:0.15000000596046448px;
+font-family:Roboto;
+font-weight:500;
+font-size:20.0px;
+color:rgba(0.0, 0.0, 0.0, 1.0);
+display:flex;
+align-items:start;
+justify-content:LEFT;
+}
+
+
+
 ._I32_85-11_4620-11_3829-8_155 {
 flex-direction:column;
 display:flex;
@@ -324,7 +342,7 @@ line-height:23.4375px;
 font-family:Roboto;
 font-weight:500;
 font-size:20.0px;
-color:rgba(95.00000193715096, 99.00000169873238, 104.00000140070915, 1.0);
+color:rgba(66.00000366568565, 66.00000366568565, 66.00000366568565, 1.0);
 display:flex;
 align-items:start;
 justify-content:LEFT;
@@ -398,7 +416,7 @@ line-height:23.4375px;
 font-family:Roboto;
 font-weight:500;
 font-size:20.0px;
-color:rgba(95.00000193715096, 99.00000169873238, 104.00000140070915, 1.0);
+color:rgba(66.00000366568565, 66.00000366568565, 66.00000366568565, 1.0);
 display:flex;
 align-items:start;
 justify-content:LEFT;
