@@ -1,146 +1,34 @@
 dmx-serverconnect {
-	display: none
+display: none
 }
-
-
 
 html {
 height:100%;
 }
 
-
-
-#head {
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 body {
 height:100%;
 }
-
-
 
 #register_div {
 height:100%;
 }
 
-
-
-
-
 w-include {
 height:0px !important;
 }
 
-
-
-
-
-
-
-
-
-#browser {
+#get_info {
+display:none;
 }
 
-
-
-#notify {
+#is_admin {
+display:none;
 }
 
-
-
-#fonts {
+#is_user {
+display:none;
 }
-
-
 
 ._2_126 {
 flex-direction:row;
@@ -156,8 +44,6 @@ height:100%;
 background-color:rgba(255.0, 255.0, 255.0, 1.0);
 }
 
-
-
 ._32_85 {
 flex-direction:column;
 display:flex;
@@ -166,8 +52,6 @@ width:fit-content;
 background-color:rgba(0.0, 0.0, 0.0, 0.0);
 }
 
-
-
 ._I32_85-11_4620 {
 flex-direction:column;
 display:flex;
@@ -175,8 +59,6 @@ height:fit-content;
 width:fit-content;
 background-color:rgba(0.0, 0.0, 0.0, 0.0);
 }
-
-
 
 ._I32_85-11_4620-11_3829 {
 flex-direction:column;
@@ -188,13 +70,9 @@ width:350.0px;
 background-color:rgba(0.0, 0.0, 0.0, 0.0);
 }
 
-
-
 ._I32_85-11_4620-11_3829-44_1122 {
 display:none;
 }
-
-
 
 ._I32_85-11_4620-11_3829-11_2113 {
 height:fit-content;
@@ -211,8 +89,6 @@ align-items:start;
 justify-content:LEFT;
 }
 
-
-
 ._I32_85-11_4620-11_3829-11_2114 {
 height:fit-content;
 width:-webkit-fill-available;
@@ -228,8 +104,6 @@ align-items:start;
 justify-content:LEFT;
 }
 
-
-
 ._I32_85-11_4620-11_3829-8_155 {
 flex-direction:column;
 display:flex;
@@ -238,8 +112,6 @@ width:-webkit-fill-available;
 width:-moz-available;
 background-color:rgba(0.0, 0.0, 0.0, 0.0);
 }
-
-
 
 ._I32_85-11_4620-11_3829-61_4999 {
 height:fit-content;
@@ -261,8 +133,6 @@ align-items:start;
 justify-content:LEFT;
 }
 
-
-
 ._I32_85-11_4620-11_3829-106_746 {
 flex-direction:column;
 display:flex;
@@ -273,8 +143,6 @@ width:-moz-available;
 background-color:rgba(0.0, 0.0, 0.0, 0.0);
 }
 
-
-
 ._I32_85-11_4620-11_3829-9_237 {
 flex-direction:column;
 display:flex;
@@ -284,8 +152,6 @@ width:-webkit-fill-available;
 width:-moz-available;
 background-color:rgba(0.0, 0.0, 0.0, 0.0);
 }
-
-
 
 ._I32_85-11_4620-11_3829-9_237-9_234 {
 height:fit-content;
@@ -300,8 +166,6 @@ display:flex;
 align-items:start;
 justify-content:LEFT;
 }
-
-
 
 ._I32_85-11_4620-11_3829-9_237-9_235 {
 flex-direction:row;
@@ -322,8 +186,6 @@ border-width:1.0px;
 border-style:SOLID;
 border-color:rgba(0.0, 0.0, 0.0, 1.0);
 }
-
-
 
 ._I32_85-11_4620-11_3829-9_237-9_235-9_232 {
 height:fit-content;
@@ -347,8 +209,6 @@ align-items:start;
 justify-content:LEFT;
 }
 
-
-
 ._I32_85-11_4620-11_3829-10_232 {
 flex-direction:column;
 display:flex;
@@ -358,8 +218,6 @@ width:-webkit-fill-available;
 width:-moz-available;
 background-color:rgba(0.0, 0.0, 0.0, 0.0);
 }
-
-
 
 ._I32_85-11_4620-11_3829-10_232-9_234 {
 height:fit-content;
@@ -374,8 +232,6 @@ display:flex;
 align-items:start;
 justify-content:LEFT;
 }
-
-
 
 ._I32_85-11_4620-11_3829-10_232-9_235 {
 flex-direction:row;
@@ -396,8 +252,6 @@ border-width:1.0px;
 border-style:SOLID;
 border-color:rgba(0.0, 0.0, 0.0, 1.0);
 }
-
-
 
 ._I32_85-11_4620-11_3829-10_232-9_235-9_232 {
 height:fit-content;
@@ -421,8 +275,6 @@ align-items:start;
 justify-content:LEFT;
 }
 
-
-
 ._I32_85-11_4620-11_3829-9_198 {
 flex-direction:column;
 display:flex;
@@ -430,8 +282,6 @@ height:fit-content;
 width:fit-content;
 background-color:rgba(0.0, 0.0, 0.0, 0.0);
 }
-
-
 
 ._I32_85-11_4620-11_3829-9_198-107_2685 {
 flex-direction:column;
@@ -443,8 +293,6 @@ width:fit-content;
 background-color:rgba(0.0, 0.0, 0.0, 0.0);
 }
 
-
-
 ._I32_85-11_4620-11_3829-9_198-46_3593 {
 flex-direction:column;
 display:flex;
@@ -454,8 +302,6 @@ min-width:307.0px;
 width:307.0px;
 background-color:rgba(0.0, 0.0, 0.0, 0.0);
 }
-
-
 
 ._I32_85-11_4620-11_3829-106_2233 {
 flex-direction:column;
@@ -470,8 +316,6 @@ width:-moz-available;
 background-color:rgba(0.0, 0.0, 0.0, 0.0);
 }
 
-
-
 ._I32_85-11_4620-11_3829-29_658 {
 flex-direction:row;
 display:flex;
@@ -481,8 +325,6 @@ width:-webkit-fill-available;
 width:-moz-available;
 background-color:rgba(0.0, 0.0, 0.0, 0.0);
 }
-
-
 
 ._I32_85-11_4620-11_3829-8_160 {
 height:fit-content;
@@ -497,8 +339,6 @@ display:flex;
 align-items:start;
 justify-content:LEFT;
 }
-
-
 
 ._I32_85-11_4620-11_3829-9_270 {
 cursor:pointer;
@@ -518,8 +358,6 @@ background-color:rgba(66.00000366568565, 66.00000366568565, 66.00000366568565, 1
 border-radius:10.0px;
 }
 
-
-
 ._I32_85-11_4620-11_3829-9_270-9_269 {
 height:fit-content;
 width:fit-content;
@@ -533,6 +371,4 @@ display:flex;
 align-items:start;
 justify-content:CENTER;
 }
-
-
 
