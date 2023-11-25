@@ -3,15 +3,18 @@ display: none
 }
 
 html {
-height:100%;
+height:auto;
+min-height:100vh !important;
 }
 
 body {
-height:100%;
+height:auto;
+background-color:rgba(255.0, 255.0, 255.0, 1.0);
 }
 
 #register-success_div {
-height:100%;
+height:auto;
+min-height:100vh !important;
 }
 
 w-include {
@@ -30,7 +33,7 @@ display:none;
 display:none;
 }
 
-._42_1911 {
+#register-success {
 flex-direction:column;
 display:flex;
 gap:10.0px;
@@ -40,22 +43,19 @@ padding-left:10.0px;
 padding-right:10.0px;
 padding-top:10.0px;
 padding-bottom:10.0px;
-height:100%;
+height:inherit;
+min-height:inherit;
 background-color:rgba(255.0, 255.0, 255.0, 1.0);
 }
 
-._42_1912 {
+#_42_1912 {
+position:relative;
 height:fit-content;
 width:-webkit-fill-available;
 width:-moz-available;
-line-height:28.125px;
-letter-spacing:0.0px;
-font-family:Roboto;
-font-weight:400;
-font-size:24.0px;
-color:rgba(0.0, 0.0, 0.0, 1.0);
 display:flex;
 align-items:start;
 justify-content:CENTER;
+text-align:center;
 }
 
