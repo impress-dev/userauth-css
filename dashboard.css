@@ -50,6 +50,8 @@ position:relative;
 position:relative;
 flex-direction:column;
 display:flex;
+padding-left:20.0px;
+padding-right:20.0px;
 height:fit-content;
 width:-webkit-fill-available;
 width:-moz-available;
